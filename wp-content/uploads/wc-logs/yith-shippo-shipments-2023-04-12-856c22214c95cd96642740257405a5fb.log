@@ -1,0 +1,1127 @@
+04-12-2023 @ 15:51:08 - Calculate shipping
+04-12-2023 @ 15:51:08 - Start to calculate parcel boxes on cart
+04-12-2023 @ 15:51:09 - Enabled parcels defined on settings: Array
+(
+)
+
+04-12-2023 @ 15:51:09 - No parcels found. Starting to create parcels from single products.
+04-12-2023 @ 15:51:09 - Parcels created from single products: Array
+(
+    [0] => Array
+        (
+            [ID] => item-key-f341c25740fd0f2bc79048d9f01520d3-603
+            [name] => FRP Deluxe XXL Wall Shades parcel
+            [length] => 7.87
+            [width] => 7.87
+            [height] => 0.79
+            [inner_padding] => 0
+            [volume] => 48.930151
+            [distance_unit] => in
+            [mass_unit] => kg
+            [weight] => 0.1
+            [enabled] => 1
+            [type] => parcel
+            [from_product] => 1
+        )
+
+)
+
+04-12-2023 @ 15:51:09 - Started to fill the packages
+04-12-2023 @ 15:51:09 - Created the boxes:Array
+(
+    [0] => Array
+        (
+            [id] => parcel-item-key-f341c25740fd0f2bc79048d9f01520d3-603-0
+            [name] => FRP Deluxe XXL Wall Shades parcel
+            [length] => 7.87
+            [width] => 7.87
+            [height] => 0.79
+            [distance_unit] => in
+            [mass_unit] => kg
+            [weight] => 0.1
+            [volume] => 48.93
+            [insurance] => no
+            [signature] => no
+            [amount] => 54340
+            [filled] => Array
+                (
+                    [f341c25740fd0f2bc79048d9f01520d3] => Array
+                        (
+                            [item_key] => f341c25740fd0f2bc79048d9f01520d3
+                            [product_id] => 603
+                            [product_name] => FRP Deluxe XXL Wall Shades
+                            [height] => 0
+                            [weight] => 0
+                            [width] => 0
+                            [length] => 0
+                            [volume] => 0
+                            [amount] => 54340
+                            [tariff_number] => 
+                            [country_origin] => PK
+                            [quantity] => 1
+                        )
+
+                )
+
+        )
+
+)
+
+04-12-2023 @ 15:51:09 - Combined box:Array
+(
+    [0] => Array
+        (
+            [id] => combined_box
+            [length] => 7.87
+            [width] => 7.87
+            [height] => 0.79
+            [volume] => 48.93
+            [amount] => 54340
+            [distance_unit] => in
+            [mass_unit] => kg
+            [insurance] => no
+            [signature] => no
+            [weight] => 0.1
+            [filled] => Array
+                (
+                    [f341c25740fd0f2bc79048d9f01520d3] => Array
+                        (
+                            [item_key] => f341c25740fd0f2bc79048d9f01520d3
+                            [product_id] => 603
+                            [product_name] => FRP Deluxe XXL Wall Shades
+                            [height] => 0
+                            [weight] => 0
+                            [width] => 0
+                            [length] => 0
+                            [volume] => 0
+                            [amount] => 54340
+                            [tariff_number] => 
+                            [country_origin] => PK
+                            [quantity] => 1
+                        )
+
+                )
+
+        )
+
+)
+
+04-12-2023 @ 15:51:09 - Parcel filled:Array
+(
+    [0] => Array
+        (
+            [id] => combined_box
+            [length] => 7.87
+            [width] => 7.87
+            [height] => 0.79
+            [volume] => 48.93
+            [amount] => 54340
+            [distance_unit] => in
+            [mass_unit] => kg
+            [insurance] => no
+            [signature] => no
+            [weight] => 0.1
+            [filled] => Array
+                (
+                    [f341c25740fd0f2bc79048d9f01520d3] => Array
+                        (
+                            [item_key] => f341c25740fd0f2bc79048d9f01520d3
+                            [product_id] => 603
+                            [product_name] => FRP Deluxe XXL Wall Shades
+                            [height] => 0
+                            [weight] => 0
+                            [width] => 0
+                            [length] => 0
+                            [volume] => 0
+                            [amount] => 54340
+                            [tariff_number] => 
+                            [country_origin] => PK
+                            [quantity] => 1
+                        )
+
+                )
+
+        )
+
+)
+
+04-12-2023 @ 15:51:09 - Parcel Weight Adjusted:Array
+(
+    [id] => combined_box
+    [length] => 7.87
+    [width] => 7.87
+    [height] => 0.79
+    [volume] => 48.93
+    [amount] => 54340
+    [distance_unit] => in
+    [mass_unit] => kg
+    [insurance] => no
+    [signature] => no
+    [weight] => 0.1
+    [filled] => Array
+        (
+            [f341c25740fd0f2bc79048d9f01520d3] => Array
+                (
+                    [item_key] => f341c25740fd0f2bc79048d9f01520d3
+                    [product_id] => 603
+                    [product_name] => FRP Deluxe XXL Wall Shades
+                    [height] => 0
+                    [weight] => 0
+                    [width] => 0
+                    [length] => 0
+                    [volume] => 0
+                    [amount] => 54340
+                    [tariff_number] => 
+                    [country_origin] => PK
+                    [quantity] => 1
+                )
+
+        )
+
+)
+
+04-12-2023 @ 15:51:09 - Parcel Minimum Dimension Adjusted:Array
+(
+    [id] => combined_box
+    [length] => 7.87
+    [width] => 7.87
+    [height] => 0.79
+    [volume] => 48.93
+    [amount] => 54340
+    [distance_unit] => in
+    [mass_unit] => kg
+    [insurance] => no
+    [signature] => no
+    [weight] => 0.1
+    [filled] => Array
+        (
+            [f341c25740fd0f2bc79048d9f01520d3] => Array
+                (
+                    [item_key] => f341c25740fd0f2bc79048d9f01520d3
+                    [product_id] => 603
+                    [product_name] => FRP Deluxe XXL Wall Shades
+                    [height] => 0
+                    [weight] => 0
+                    [width] => 0
+                    [length] => 0
+                    [volume] => 0
+                    [amount] => 54340
+                    [tariff_number] => 
+                    [country_origin] => PK
+                    [quantity] => 1
+                )
+
+        )
+
+)
+
+04-12-2023 @ 15:51:09 - Parcel Adjusted:Array
+(
+    [0] => Array
+        (
+            [id] => combined_box
+            [length] => 7.87
+            [width] => 7.87
+            [height] => 0.79
+            [volume] => 48.93
+            [amount] => 54340
+            [distance_unit] => in
+            [mass_unit] => kg
+            [insurance] => no
+            [signature] => no
+            [weight] => 0.1
+            [filled] => Array
+                (
+                    [f341c25740fd0f2bc79048d9f01520d3] => Array
+                        (
+                            [item_key] => f341c25740fd0f2bc79048d9f01520d3
+                            [product_id] => 603
+                            [product_name] => FRP Deluxe XXL Wall Shades
+                            [height] => 0
+                            [weight] => 0
+                            [width] => 0
+                            [length] => 0
+                            [volume] => 0
+                            [amount] => 54340
+                            [tariff_number] => 
+                            [country_origin] => PK
+                            [quantity] => 1
+                        )
+
+                )
+
+        )
+
+)
+
+04-12-2023 @ 15:51:09 - Parcel process ended
+04-12-2023 @ 15:51:09 - Parcels found Array
+(
+    [0] => Array
+        (
+            [id] => combined_box
+            [length] => 7.87
+            [width] => 7.87
+            [height] => 0.79
+            [volume] => 48.93
+            [amount] => 54340
+            [distance_unit] => in
+            [mass_unit] => kg
+            [insurance] => no
+            [signature] => no
+            [weight] => 0.1
+            [filled] => Array
+                (
+                    [f341c25740fd0f2bc79048d9f01520d3] => Array
+                        (
+                            [item_key] => f341c25740fd0f2bc79048d9f01520d3
+                            [product_id] => 603
+                            [product_name] => FRP Deluxe XXL Wall Shades
+                            [height] => 0
+                            [weight] => 0
+                            [width] => 0
+                            [length] => 0
+                            [volume] => 0
+                            [amount] => 54340
+                            [tariff_number] => 
+                            [country_origin] => PK
+                            [quantity] => 1
+                        )
+
+                )
+
+        )
+
+)
+
+04-12-2023 @ 15:51:09 - Detected zone 
+04-12-2023 @ 15:51:09 - Found this owner address Array
+(
+    [country_state] => 
+    [country] => 
+    [state] => 
+    [street1] => 
+    [street2] => 
+    [zip] => 
+)
+
+04-12-2023 @ 15:51:09 - Require a shipment Array
+(
+    [address_from] => Array
+        (
+            [country_state] => 
+            [country] => 
+            [state] => 
+            [street1] => 
+            [street2] => 
+            [zip] => 
+        )
+
+    [async] => 
+    [currency] => PKR
+    [address_to] => Array
+        (
+            [name] => Ahsan Ali
+            [company] => 
+            [street1] => Karachi
+            [city] => 75
+            [state] => 
+            [zip] => 75100
+            [country] => PK
+            [phone] => 03126849209
+            [email] => ahsan27.pk@gmail.com
+            [is_residential] => 1
+        )
+
+    [customs_declaration] => Array
+        (
+            [certify] => 1
+            [non_delivery_option] => RETURN
+            [certify_signer] => Shipper
+            [contents_type] => MERCHANDISE
+            [contents_explanation] => Merchandise
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => FRP Deluxe XXL Wall Shades
+                            [quantity] => 1
+                            [value_amount] => 54340
+                            [net_weight] => 0.01
+                            [value_currency] => PKR
+                            [origin_country] => PK
+                            [tariff_number] => 
+                            [mass_unit] => kg
+                        )
+
+                )
+
+        )
+
+    [parcels] => Array
+        (
+            [0] => Array
+                (
+                    [length] => 7.87
+                    [width] => 7.87
+                    [height] => 0.79
+                    [distance_unit] => in
+                    [mass_unit] => kg
+                    [weight] => 0.1
+                )
+
+        )
+
+)
+
+04-12-2023 @ 15:51:09 - Error on calculate shippings :No credentials provided.
+04-12-2023 @ 15:51:13 - Calculate shipping
+04-12-2023 @ 15:51:13 - Start to calculate parcel boxes on cart
+04-12-2023 @ 15:51:13 - Enabled parcels defined on settings: Array
+(
+)
+
+04-12-2023 @ 15:51:13 - No parcels found. Starting to create parcels from single products.
+04-12-2023 @ 15:51:13 - Parcels created from single products: Array
+(
+    [0] => Array
+        (
+            [ID] => item-key-f341c25740fd0f2bc79048d9f01520d3-603
+            [name] => FRP Deluxe XXL Wall Shades parcel
+            [length] => 7.87
+            [width] => 7.87
+            [height] => 0.79
+            [inner_padding] => 0
+            [volume] => 48.930151
+            [distance_unit] => in
+            [mass_unit] => kg
+            [weight] => 0.1
+            [enabled] => 1
+            [type] => parcel
+            [from_product] => 1
+        )
+
+)
+
+04-12-2023 @ 15:51:13 - Started to fill the packages
+04-12-2023 @ 15:51:13 - Created the boxes:Array
+(
+    [0] => Array
+        (
+            [id] => parcel-item-key-f341c25740fd0f2bc79048d9f01520d3-603-0
+            [name] => FRP Deluxe XXL Wall Shades parcel
+            [length] => 7.87
+            [width] => 7.87
+            [height] => 0.79
+            [distance_unit] => in
+            [mass_unit] => kg
+            [weight] => 0.1
+            [volume] => 48.93
+            [insurance] => no
+            [signature] => no
+            [amount] => 54340
+            [filled] => Array
+                (
+                    [f341c25740fd0f2bc79048d9f01520d3] => Array
+                        (
+                            [item_key] => f341c25740fd0f2bc79048d9f01520d3
+                            [product_id] => 603
+                            [product_name] => FRP Deluxe XXL Wall Shades
+                            [height] => 0
+                            [weight] => 0
+                            [width] => 0
+                            [length] => 0
+                            [volume] => 0
+                            [amount] => 54340
+                            [tariff_number] => 
+                            [country_origin] => PK
+                            [quantity] => 1
+                        )
+
+                )
+
+        )
+
+)
+
+04-12-2023 @ 15:51:13 - Combined box:Array
+(
+    [0] => Array
+        (
+            [id] => combined_box
+            [length] => 7.87
+            [width] => 7.87
+            [height] => 0.79
+            [volume] => 48.93
+            [amount] => 54340
+            [distance_unit] => in
+            [mass_unit] => kg
+            [insurance] => no
+            [signature] => no
+            [weight] => 0.1
+            [filled] => Array
+                (
+                    [f341c25740fd0f2bc79048d9f01520d3] => Array
+                        (
+                            [item_key] => f341c25740fd0f2bc79048d9f01520d3
+                            [product_id] => 603
+                            [product_name] => FRP Deluxe XXL Wall Shades
+                            [height] => 0
+                            [weight] => 0
+                            [width] => 0
+                            [length] => 0
+                            [volume] => 0
+                            [amount] => 54340
+                            [tariff_number] => 
+                            [country_origin] => PK
+                            [quantity] => 1
+                        )
+
+                )
+
+        )
+
+)
+
+04-12-2023 @ 15:51:13 - Parcel filled:Array
+(
+    [0] => Array
+        (
+            [id] => combined_box
+            [length] => 7.87
+            [width] => 7.87
+            [height] => 0.79
+            [volume] => 48.93
+            [amount] => 54340
+            [distance_unit] => in
+            [mass_unit] => kg
+            [insurance] => no
+            [signature] => no
+            [weight] => 0.1
+            [filled] => Array
+                (
+                    [f341c25740fd0f2bc79048d9f01520d3] => Array
+                        (
+                            [item_key] => f341c25740fd0f2bc79048d9f01520d3
+                            [product_id] => 603
+                            [product_name] => FRP Deluxe XXL Wall Shades
+                            [height] => 0
+                            [weight] => 0
+                            [width] => 0
+                            [length] => 0
+                            [volume] => 0
+                            [amount] => 54340
+                            [tariff_number] => 
+                            [country_origin] => PK
+                            [quantity] => 1
+                        )
+
+                )
+
+        )
+
+)
+
+04-12-2023 @ 15:51:13 - Parcel Weight Adjusted:Array
+(
+    [id] => combined_box
+    [length] => 7.87
+    [width] => 7.87
+    [height] => 0.79
+    [volume] => 48.93
+    [amount] => 54340
+    [distance_unit] => in
+    [mass_unit] => kg
+    [insurance] => no
+    [signature] => no
+    [weight] => 0.1
+    [filled] => Array
+        (
+            [f341c25740fd0f2bc79048d9f01520d3] => Array
+                (
+                    [item_key] => f341c25740fd0f2bc79048d9f01520d3
+                    [product_id] => 603
+                    [product_name] => FRP Deluxe XXL Wall Shades
+                    [height] => 0
+                    [weight] => 0
+                    [width] => 0
+                    [length] => 0
+                    [volume] => 0
+                    [amount] => 54340
+                    [tariff_number] => 
+                    [country_origin] => PK
+                    [quantity] => 1
+                )
+
+        )
+
+)
+
+04-12-2023 @ 15:51:13 - Parcel Minimum Dimension Adjusted:Array
+(
+    [id] => combined_box
+    [length] => 7.87
+    [width] => 7.87
+    [height] => 0.79
+    [volume] => 48.93
+    [amount] => 54340
+    [distance_unit] => in
+    [mass_unit] => kg
+    [insurance] => no
+    [signature] => no
+    [weight] => 0.1
+    [filled] => Array
+        (
+            [f341c25740fd0f2bc79048d9f01520d3] => Array
+                (
+                    [item_key] => f341c25740fd0f2bc79048d9f01520d3
+                    [product_id] => 603
+                    [product_name] => FRP Deluxe XXL Wall Shades
+                    [height] => 0
+                    [weight] => 0
+                    [width] => 0
+                    [length] => 0
+                    [volume] => 0
+                    [amount] => 54340
+                    [tariff_number] => 
+                    [country_origin] => PK
+                    [quantity] => 1
+                )
+
+        )
+
+)
+
+04-12-2023 @ 15:51:13 - Parcel Adjusted:Array
+(
+    [0] => Array
+        (
+            [id] => combined_box
+            [length] => 7.87
+            [width] => 7.87
+            [height] => 0.79
+            [volume] => 48.93
+            [amount] => 54340
+            [distance_unit] => in
+            [mass_unit] => kg
+            [insurance] => no
+            [signature] => no
+            [weight] => 0.1
+            [filled] => Array
+                (
+                    [f341c25740fd0f2bc79048d9f01520d3] => Array
+                        (
+                            [item_key] => f341c25740fd0f2bc79048d9f01520d3
+                            [product_id] => 603
+                            [product_name] => FRP Deluxe XXL Wall Shades
+                            [height] => 0
+                            [weight] => 0
+                            [width] => 0
+                            [length] => 0
+                            [volume] => 0
+                            [amount] => 54340
+                            [tariff_number] => 
+                            [country_origin] => PK
+                            [quantity] => 1
+                        )
+
+                )
+
+        )
+
+)
+
+04-12-2023 @ 15:51:13 - Parcel process ended
+04-12-2023 @ 15:51:13 - Parcels found Array
+(
+    [0] => Array
+        (
+            [id] => combined_box
+            [length] => 7.87
+            [width] => 7.87
+            [height] => 0.79
+            [volume] => 48.93
+            [amount] => 54340
+            [distance_unit] => in
+            [mass_unit] => kg
+            [insurance] => no
+            [signature] => no
+            [weight] => 0.1
+            [filled] => Array
+                (
+                    [f341c25740fd0f2bc79048d9f01520d3] => Array
+                        (
+                            [item_key] => f341c25740fd0f2bc79048d9f01520d3
+                            [product_id] => 603
+                            [product_name] => FRP Deluxe XXL Wall Shades
+                            [height] => 0
+                            [weight] => 0
+                            [width] => 0
+                            [length] => 0
+                            [volume] => 0
+                            [amount] => 54340
+                            [tariff_number] => 
+                            [country_origin] => PK
+                            [quantity] => 1
+                        )
+
+                )
+
+        )
+
+)
+
+04-12-2023 @ 15:51:13 - Detected zone 
+04-12-2023 @ 15:51:13 - Found this owner address Array
+(
+    [country_state] => 
+    [country] => 
+    [state] => 
+    [street1] => 
+    [street2] => 
+    [zip] => 
+)
+
+04-12-2023 @ 15:51:13 - Require a shipment Array
+(
+    [address_from] => Array
+        (
+            [country_state] => 
+            [country] => 
+            [state] => 
+            [street1] => 
+            [street2] => 
+            [zip] => 
+        )
+
+    [async] => 
+    [currency] => PKR
+    [address_to] => Array
+        (
+            [name] => Ahsan Ali
+            [street1] => Karachi
+            [city] => 75
+            [zip] => 75100
+            [country] => PK
+            [phone] => 03126849209
+            [email] => ahsan27.pk@gmail.com
+            [is_residential] => 1
+        )
+
+    [customs_declaration] => Array
+        (
+            [certify] => 1
+            [non_delivery_option] => RETURN
+            [certify_signer] => Shipper
+            [contents_type] => MERCHANDISE
+            [contents_explanation] => Merchandise
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => FRP Deluxe XXL Wall Shades
+                            [quantity] => 1
+                            [value_amount] => 54340
+                            [net_weight] => 0.01
+                            [value_currency] => PKR
+                            [origin_country] => PK
+                            [tariff_number] => 
+                            [mass_unit] => kg
+                        )
+
+                )
+
+        )
+
+    [parcels] => Array
+        (
+            [0] => Array
+                (
+                    [length] => 7.87
+                    [width] => 7.87
+                    [height] => 0.79
+                    [distance_unit] => in
+                    [mass_unit] => kg
+                    [weight] => 0.1
+                )
+
+        )
+
+)
+
+04-12-2023 @ 15:51:13 - Error on calculate shippings :No credentials provided.
+04-12-2023 @ 15:52:22 - Calculate shipping
+04-12-2023 @ 15:52:22 - Start to calculate parcel boxes on cart
+04-12-2023 @ 15:52:22 - Enabled parcels defined on settings: Array
+(
+)
+
+04-12-2023 @ 15:52:22 - No parcels found. Starting to create parcels from single products.
+04-12-2023 @ 15:52:22 - Parcels created from single products: Array
+(
+    [0] => Array
+        (
+            [ID] => item-key-f341c25740fd0f2bc79048d9f01520d3-603
+            [name] => FRP Deluxe XXL Wall Shades parcel
+            [length] => 7.87
+            [width] => 7.87
+            [height] => 0.79
+            [inner_padding] => 0
+            [volume] => 48.930151
+            [distance_unit] => in
+            [mass_unit] => kg
+            [weight] => 0.1
+            [enabled] => 1
+            [type] => parcel
+            [from_product] => 1
+        )
+
+)
+
+04-12-2023 @ 15:52:22 - Started to fill the packages
+04-12-2023 @ 15:52:22 - Created the boxes:Array
+(
+    [0] => Array
+        (
+            [id] => parcel-item-key-f341c25740fd0f2bc79048d9f01520d3-603-0
+            [name] => FRP Deluxe XXL Wall Shades parcel
+            [length] => 7.87
+            [width] => 7.87
+            [height] => 0.79
+            [distance_unit] => in
+            [mass_unit] => kg
+            [weight] => 0.1
+            [volume] => 48.93
+            [insurance] => no
+            [signature] => no
+            [amount] => 54340
+            [filled] => Array
+                (
+                    [f341c25740fd0f2bc79048d9f01520d3] => Array
+                        (
+                            [item_key] => f341c25740fd0f2bc79048d9f01520d3
+                            [product_id] => 603
+                            [product_name] => FRP Deluxe XXL Wall Shades
+                            [height] => 0
+                            [weight] => 0
+                            [width] => 0
+                            [length] => 0
+                            [volume] => 0
+                            [amount] => 54340
+                            [tariff_number] => 
+                            [country_origin] => PK
+                            [quantity] => 1
+                        )
+
+                )
+
+        )
+
+)
+
+04-12-2023 @ 15:52:22 - Combined box:Array
+(
+    [0] => Array
+        (
+            [id] => combined_box
+            [length] => 7.87
+            [width] => 7.87
+            [height] => 0.79
+            [volume] => 48.93
+            [amount] => 54340
+            [distance_unit] => in
+            [mass_unit] => kg
+            [insurance] => no
+            [signature] => no
+            [weight] => 0.1
+            [filled] => Array
+                (
+                    [f341c25740fd0f2bc79048d9f01520d3] => Array
+                        (
+                            [item_key] => f341c25740fd0f2bc79048d9f01520d3
+                            [product_id] => 603
+                            [product_name] => FRP Deluxe XXL Wall Shades
+                            [height] => 0
+                            [weight] => 0
+                            [width] => 0
+                            [length] => 0
+                            [volume] => 0
+                            [amount] => 54340
+                            [tariff_number] => 
+                            [country_origin] => PK
+                            [quantity] => 1
+                        )
+
+                )
+
+        )
+
+)
+
+04-12-2023 @ 15:52:22 - Parcel filled:Array
+(
+    [0] => Array
+        (
+            [id] => combined_box
+            [length] => 7.87
+            [width] => 7.87
+            [height] => 0.79
+            [volume] => 48.93
+            [amount] => 54340
+            [distance_unit] => in
+            [mass_unit] => kg
+            [insurance] => no
+            [signature] => no
+            [weight] => 0.1
+            [filled] => Array
+                (
+                    [f341c25740fd0f2bc79048d9f01520d3] => Array
+                        (
+                            [item_key] => f341c25740fd0f2bc79048d9f01520d3
+                            [product_id] => 603
+                            [product_name] => FRP Deluxe XXL Wall Shades
+                            [height] => 0
+                            [weight] => 0
+                            [width] => 0
+                            [length] => 0
+                            [volume] => 0
+                            [amount] => 54340
+                            [tariff_number] => 
+                            [country_origin] => PK
+                            [quantity] => 1
+                        )
+
+                )
+
+        )
+
+)
+
+04-12-2023 @ 15:52:22 - Parcel Weight Adjusted:Array
+(
+    [id] => combined_box
+    [length] => 7.87
+    [width] => 7.87
+    [height] => 0.79
+    [volume] => 48.93
+    [amount] => 54340
+    [distance_unit] => in
+    [mass_unit] => kg
+    [insurance] => no
+    [signature] => no
+    [weight] => 0.1
+    [filled] => Array
+        (
+            [f341c25740fd0f2bc79048d9f01520d3] => Array
+                (
+                    [item_key] => f341c25740fd0f2bc79048d9f01520d3
+                    [product_id] => 603
+                    [product_name] => FRP Deluxe XXL Wall Shades
+                    [height] => 0
+                    [weight] => 0
+                    [width] => 0
+                    [length] => 0
+                    [volume] => 0
+                    [amount] => 54340
+                    [tariff_number] => 
+                    [country_origin] => PK
+                    [quantity] => 1
+                )
+
+        )
+
+)
+
+04-12-2023 @ 15:52:22 - Parcel Minimum Dimension Adjusted:Array
+(
+    [id] => combined_box
+    [length] => 7.87
+    [width] => 7.87
+    [height] => 0.79
+    [volume] => 48.93
+    [amount] => 54340
+    [distance_unit] => in
+    [mass_unit] => kg
+    [insurance] => no
+    [signature] => no
+    [weight] => 0.1
+    [filled] => Array
+        (
+            [f341c25740fd0f2bc79048d9f01520d3] => Array
+                (
+                    [item_key] => f341c25740fd0f2bc79048d9f01520d3
+                    [product_id] => 603
+                    [product_name] => FRP Deluxe XXL Wall Shades
+                    [height] => 0
+                    [weight] => 0
+                    [width] => 0
+                    [length] => 0
+                    [volume] => 0
+                    [amount] => 54340
+                    [tariff_number] => 
+                    [country_origin] => PK
+                    [quantity] => 1
+                )
+
+        )
+
+)
+
+04-12-2023 @ 15:52:22 - Parcel Adjusted:Array
+(
+    [0] => Array
+        (
+            [id] => combined_box
+            [length] => 7.87
+            [width] => 7.87
+            [height] => 0.79
+            [volume] => 48.93
+            [amount] => 54340
+            [distance_unit] => in
+            [mass_unit] => kg
+            [insurance] => no
+            [signature] => no
+            [weight] => 0.1
+            [filled] => Array
+                (
+                    [f341c25740fd0f2bc79048d9f01520d3] => Array
+                        (
+                            [item_key] => f341c25740fd0f2bc79048d9f01520d3
+                            [product_id] => 603
+                            [product_name] => FRP Deluxe XXL Wall Shades
+                            [height] => 0
+                            [weight] => 0
+                            [width] => 0
+                            [length] => 0
+                            [volume] => 0
+                            [amount] => 54340
+                            [tariff_number] => 
+                            [country_origin] => PK
+                            [quantity] => 1
+                        )
+
+                )
+
+        )
+
+)
+
+04-12-2023 @ 15:52:22 - Parcel process ended
+04-12-2023 @ 15:52:22 - Parcels found Array
+(
+    [0] => Array
+        (
+            [id] => combined_box
+            [length] => 7.87
+            [width] => 7.87
+            [height] => 0.79
+            [volume] => 48.93
+            [amount] => 54340
+            [distance_unit] => in
+            [mass_unit] => kg
+            [insurance] => no
+            [signature] => no
+            [weight] => 0.1
+            [filled] => Array
+                (
+                    [f341c25740fd0f2bc79048d9f01520d3] => Array
+                        (
+                            [item_key] => f341c25740fd0f2bc79048d9f01520d3
+                            [product_id] => 603
+                            [product_name] => FRP Deluxe XXL Wall Shades
+                            [height] => 0
+                            [weight] => 0
+                            [width] => 0
+                            [length] => 0
+                            [volume] => 0
+                            [amount] => 54340
+                            [tariff_number] => 
+                            [country_origin] => PK
+                            [quantity] => 1
+                        )
+
+                )
+
+        )
+
+)
+
+04-12-2023 @ 15:52:22 - Detected zone 
+04-12-2023 @ 15:52:22 - Found this owner address Array
+(
+    [country_state] => 
+    [country] => 
+    [state] => 
+    [street1] => 
+    [street2] => 
+    [zip] => 
+)
+
+04-12-2023 @ 15:52:22 - Require a shipment Array
+(
+    [address_from] => Array
+        (
+            [country_state] => 
+            [country] => 
+            [state] => 
+            [street1] => 
+            [street2] => 
+            [zip] => 
+        )
+
+    [async] => 
+    [currency] => PKR
+    [address_to] => Array
+        (
+            [name] => Ahsan Ali
+            [street1] => Karachi
+            [city] => Karachi
+            [zip] => 75100
+            [country] => PK
+            [phone] => 03126849209
+            [email] => ahsan27.pk@gmail.com
+            [is_residential] => 1
+        )
+
+    [customs_declaration] => Array
+        (
+            [certify] => 1
+            [non_delivery_option] => RETURN
+            [certify_signer] => Shipper
+            [contents_type] => MERCHANDISE
+            [contents_explanation] => Merchandise
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [description] => FRP Deluxe XXL Wall Shades
+                            [quantity] => 1
+                            [value_amount] => 54340
+                            [net_weight] => 0.01
+                            [value_currency] => PKR
+                            [origin_country] => PK
+                            [tariff_number] => 
+                            [mass_unit] => kg
+                        )
+
+                )
+
+        )
+
+    [parcels] => Array
+        (
+            [0] => Array
+                (
+                    [length] => 7.87
+                    [width] => 7.87
+                    [height] => 0.79
+                    [distance_unit] => in
+                    [mass_unit] => kg
+                    [weight] => 0.1
+                )
+
+        )
+
+)
+
+04-12-2023 @ 15:52:22 - Error on calculate shippings :No credentials provided.

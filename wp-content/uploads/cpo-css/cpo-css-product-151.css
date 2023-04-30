@@ -1,0 +1,65 @@
+/**
+ * This file has been created automatically by Uni CPO plugin
+ * Last modified time: Apr 11 2023, 09:41:18
+ */
+
+
+        .uni-node-54cfb48c .uni-row-content-wrap {
+				 color: #333333;																																										        }
+				            .uni-node-54cfb48c .uni-row-content-wrap a:hover {
+            color:;
+            }
+		
+		
+
+        .uni-node-cec8616d {
+		 float: left;		 width: 30%; 								        }
+        .uni-node-cec8616d .uni-col-content {
+																						        }
+
+		
+
+        .uni-node-4c99dd39 {
+                                                        }
+
+                    .uni-node-4c99dd39 .uni-cpo-module-text_input-label {
+                                                                                            }
+        
+        .uni-node-4c99dd39 input[type="text"], .uni-node-4c99dd39 input[type="number"] {
+			 width: 100%!important; max-width: 100%!important;			 height: 36px!important; min-height: 36px!important;																								 border-top: 1px solid #d7d7d7!important; 			 border-bottom: 1px solid #d7d7d7!important; 			 border-left: 1px solid #d7d7d7!important; 			 border-right: 1px solid #d7d7d7!important; 			 border-radius: 5px!important; 									 padding-left: 14px!important; 			 padding-right: 14px!important;         }
+
+		
+
+        .uni-node-a7a3892d {
+                         margin-bottom: 5px!important;                                 }
+
+                    .uni-node-a7a3892d .uni-cpo-module-text_input-label {
+                                                                                            }
+        
+        .uni-node-a7a3892d input[type="text"], .uni-node-a7a3892d input[type="number"] {
+			 width: 100%!important; max-width: 100%!important;			 height: 36px!important; min-height: 36px!important;																								 border-top: 1px solid #d7d7d7!important; 			 border-bottom: 1px solid #d7d7d7!important; 			 border-left: 1px solid #d7d7d7!important; 			 border-right: 1px solid #d7d7d7!important; 			 border-radius: 5px!important; 									 padding-left: 14px!important; 			 padding-right: 14px!important;         }
+
+		
+
+        .uni-node-f339f923 {
+		 margin-top: 10px!important; 						        }
+		            .uni-node-f339f923 .uni-cpo-module-select-label {
+															            }
+		        .uni-node-f339f923 select {
+		 width: 100%!important;		 height: 36px!important; min-height: 36px!important; 		 border-top: 1px solid #d7d7d7!important; 		 border-bottom: 1px solid #d7d7d7!important; 		 border-left: 1px solid #d7d7d7!important; 		 border-right: 1px solid #d7d7d7!important; 		 border-radius: 5px!important; 														        }
+
+		
+
+        .uni-node-95f490d7 {
+			 margin-top: 10px!important; 									        }
+                    .uni-node-95f490d7 .uni-cpo-module-text_area-label {
+                                                                        }
+                .uni-node-95f490d7 textarea {
+			 width: 100%!important;			 height: 30px!important;																								 background-color: #ffffff!important;			 border-top: 1px solid #d7d7d7!important; 			 border-bottom: 1px solid #d7d7d7!important; 			 border-left: 1px solid #d7d7d7!important; 			 border-right: 1px solid #d7d7d7!important; 			 border-radius: 5px!important; 			 padding-top: 4px!important; 			 padding-bottom: 4px!important; 			 padding-left: 10px!important; 			 padding-right: 10px!important;         }
+
+		            .uni-node-95f490d7 textarea:focus, .uni-node-95f490d7 textarea:active {
+            background-color: #ffffff;
+            }
+		
+		
+
